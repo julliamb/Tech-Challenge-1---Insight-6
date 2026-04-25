@@ -1,4 +1,4 @@
-\# 📦 Frete, Distância e Receita: O Impacto Logístico por Região
+Frete, Distância e Receita: O Impacto Logístico por Região
 
 
 
@@ -10,7 +10,7 @@ Tech Challenge — Fase 1 | POSTECH DTAT
 
 
 
-\## Sobre o Projeto
+Sobre o Projeto
 
 
 
@@ -26,7 +26,7 @@ Além da distância, fatores como pedágios, combustível, manutenção de frota
 
 
 
-\## Objetivos
+Objetivos
 
 
 
@@ -44,23 +44,23 @@ Além da distância, fatores como pedágios, combustível, manutenção de frota
 
 
 
-\## Principais Descobertas
+Principais Descobertas
 
 
 
-\### 1. Clientes concentrados no Sul e Sudeste
+1. Clientes concentrados no Sul e Sudeste
 
 A base de clientes está fortemente concentrada nessas duas regiões, com São Paulo liderando o volume. Norte, Nordeste e Centro-Oeste ficam bem atrás, não por falta de demanda, mas pelas barreiras logísticas que encarecem o acesso ao marketplace.
 
 
 
-\### 2. Quanto mais longe, mais caro o frete
+2. Quanto mais longe, mais caro o frete
 
 A análise confirma que as regiões mais distantes dos centros de distribuição do Sudeste pagam fretes significativamente mais altos. Norte e Nordeste são os casos mais críticos.
 
 
 
-\### 3. Frete alto, receita baixa
+3. Frete alto, receita baixa
 
 O Sudeste tem o menor frete médio e concentra a maior fatia da receita total. O Norte tem o maior custo de frete e a menor contribuição para o faturamento. Essa relação inversa aparece de forma clara nos dados.
 
@@ -70,7 +70,7 @@ O Sudeste tem o menor frete médio e concentra a maior fatia da receita total. O
 
 
 
-\## Ferramentas e Tecnologias
+Ferramentas e Tecnologias
 
 
 
@@ -92,7 +92,7 @@ O Sudeste tem o menor frete médio e concentra a maior fatia da receita total. O
 
 
 
-\## Expressões DAX Criadas
+Expressões DAX Criadas
 
 
 
@@ -136,13 +136,13 @@ Foram criadas 11 expressões DAX ao longo da análise, entre colunas calculadas 
 
 
 
-\## Estrutura do Repositório
+ Estrutura do Repositório
 
 
 
 ```
 
-📦 tech-challenge-fase1/
+tech-challenge-fase1/
 
 ├── Tech\_Challenge\_Insight\_6.pbix          # Dashboard Power BI
 
@@ -160,7 +160,7 @@ Foram criadas 11 expressões DAX ao longo da análise, entre colunas calculadas 
 
 
 
-\## Visualizações do Dashboard
+Visualizações do Dashboard
 
 
 
@@ -168,11 +168,11 @@ O dashboard no Power BI é composto por três gráficos principais:
 
 
 
-\- \*\*Gráfico 1 — Distribuição Geográfica dos Clientes:\*\* Mapa de formas dos estados brasileiros colorido pela densidade de clientes
+Gráfico 1 — Distribuição Geográfica dos Clientes: Mapa de formas dos estados brasileiros colorido pela densidade de clientes
 
-\- \*\*Gráfico 2 — Frete Médio por Região:\*\* Barras horizontais com o frete médio por pedido em cada região
+Gráfico 2 — Frete Médio por Região: Barras horizontais com o frete médio por pedido em cada região
 
-\- \*\*Gráfico 3 — Frete Médio vs Receita por Região:\*\* Gráfico de linhas cruzando as duas métricas para mostrar a relação entre custo logístico e receita
+Gráfico 3 — Frete Médio vs Receita por Região: Gráfico de linhas cruzando as duas métricas para mostrar a relação entre custo logístico e receita
 
 
 
@@ -180,7 +180,7 @@ O dashboard no Power BI é composto por três gráficos principais:
 
 
 
-\## Recomendações
+Recomendações
 
 
 
@@ -188,13 +188,13 @@ Dois caminhos principais para reduzir os gargalos e ampliar a receita nas regiõ
 
 
 
-\*\*1. Expandir a infraestrutura logística\*\*
+1. Expandir a infraestrutura logística
 
 Criar hubs ou pontos de apoio no Norte e Nordeste para encurtar distâncias e reduzir o custo e o prazo das entregas.
 
 
 
-\*\*2. Fortalecer sellers regionais\*\*
+2. Fortalecer sellers regionais
 
 Incentivar vendedores locais a entrar na plataforma, reduzindo a dependência de envios que partem do Sudeste.
 
@@ -204,7 +204,7 @@ Incentivar vendedores locais a entrar na plataforma, reduzindo a dependência de
 
 
 
-\## Fonte de Dados
+Fonte de Dados
 
 
 
@@ -218,7 +218,7 @@ Incentivar vendedores locais a entrar na plataforma, reduzindo a dependência de
 
 
 
-\## Autoria
+Autoria
 
 
 
